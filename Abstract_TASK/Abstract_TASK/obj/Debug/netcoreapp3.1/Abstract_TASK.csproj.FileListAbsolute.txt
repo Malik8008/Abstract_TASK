@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\bin\Debug\netcoreapp3.1\Abstract_TASK.exe
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\bin\Debug\netcoreapp3.1\Abstract_TASK.deps.json
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\bin\Debug\netcoreapp3.1\Abstract_TASK.runtimeconfig.json
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\bin\Debug\netcoreapp3.1\Abstract_TASK.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\bin\Debug\netcoreapp3.1\Abstract_TASK.dll
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\bin\Debug\netcoreapp3.1\Abstract_TASK.pdb
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.dll
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.pdb
+C:\Users\Admin\source\repos\Abstract_TASK\Abstract_TASK\obj\Debug\netcoreapp3.1\Abstract_TASK.genruntimeconfig.cache
